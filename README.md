@@ -11,8 +11,7 @@ X = radius of Morgan fingerprint (2 or 3)
 
 H_ORAC_onlyX.ipynb : no fine-tuning (H_ORAC.csv)
 
-QM9_X.ipynb : QM9 potential energy (pre-training, qm9.pickle)
-
+QM9_X.ipynb : QM9 potential energy (pre-training, qm9.pickle)  
 
 Y = BDE, IP, PDE, PA, ETE(pre-training)
 
