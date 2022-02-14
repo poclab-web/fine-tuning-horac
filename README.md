@@ -35,6 +35,8 @@ numpy	1.19.5
 
 pandas 1.1.5
 
+The program has been confirmed to be able to run on google colaboratory in February 2022.
+
 # Data
 If you run this program on your local environment, please download qm9.pickle, H_ORAC.csv, bde_list.csv, and BDE_t.csv.
 
