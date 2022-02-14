@@ -10,11 +10,14 @@ In recent years, obtaining sufficient labeling data for time-consuming measureme
 X = radius of Morgan fingerprint (2 or 3)
 
 H_ORAC_onlyX.ipynb : no fine-tuning (H_ORAC.csv)
+
 QM9_X.ipynb : QM9 potential energy (pre-training, qm9.pickle)
+
 
 Y = BDE, IP, PDE, PA, ETE(pre-training)
 
 TCI_X_Y.ipynb : compounds sold at Tokyo Chemical Industry Co., Ltd. (BDE_t.csv)
+
 ori_X_Y.ipynb : virtual compounds (bde_list.csv)
 
 
